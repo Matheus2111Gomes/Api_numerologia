@@ -1,0 +1,14 @@
+{
+  "name": "api-numerologia",
+  "version": "1.0.0",
+  "description": "Api desenvolvida com o intuito de facilitar a forma de se descobrir os números relacionados ao seu nome segundo a numerologia",
+  "main": "app.js",
+  "scripts": {
+    "test": "node index.test"
+  },
+  "author": "MatheusGomes",
+  "license": "ISC",
+  "dependencies": {
+    "tape": "^4.10.1"
+  }
+}
